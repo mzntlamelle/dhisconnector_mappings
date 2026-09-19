@@ -188,17 +188,17 @@
     {
       "indicator": "7thANC15-1",
       "dataElement": "tKvKC7GYLnh",
-      "comboOption": "o3gPAIVHSD0"
+      "comboOption": "hQMhcy1vCxf"
     },
     {
       "indicator": "7thANC20pl",
       "dataElement": "tKvKC7GYLnh",
-      "comboOption": "pTDlJzpWSQ5"
+      "comboOption": "I6Fh0IzuZfz"
     },
     {
       "indicator": "7thANC<15",
       "dataElement": "tKvKC7GYLnh",
-      "comboOption": "zTBOtY3rUW4"
+      "comboOption": "D7ljyiOrqdd"
     },
     {
       "indicator": "8thANC15-1",
@@ -214,6 +214,21 @@
       "indicator": "8thANC<15",
       "dataElement": "tKvKC7GYLnh",
       "comboOption": "ZfO8M0IQcl0"
+    },
+    {
+      "indicator": "TSyp<15<36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "KK8xZNtr5PV"
+    },
+    {
+      "indicator": "TSyp15+<36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "VaRMWEgFhpS"
+    },
+    {
+      "indicator": "TSyp20+<36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "FGQ6wAqtVLF"
     },
     {
       "indicator": "SPos<36_15",
@@ -246,6 +261,21 @@
       "comboOption": "KK8xZNtr5PV"
     },
     {
+      "indicator": "TSyp<15>36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "WtNHfuVJWc0"
+    },
+    {
+      "indicator": "TSyp15+>36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "lMYpwojFYPN"
+    },
+    {
+      "indicator": "TSyp20+>36",
+      "dataElement": "SB5YFLa1B5x",
+      "comboOption": "pHGe4Yw31vs"
+    },
+    {
       "indicator": "SPos>36_15",
       "dataElement": "yZZd1P4BsBq",
       "comboOption": "lMYpwojFYPN"
@@ -276,6 +306,21 @@
       "comboOption": "WtNHfuVJWc0"
     },
     {
+      "indicator": "TAn<15<36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "Lqwh6vwPR3v"
+    },
+    {
+      "indicator": "TAn15+<36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "kYzMoz0jioU"
+    },
+    {
+      "indicator": "TAn20+<36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "kFJw3L1niwp"
+    },
+    {
       "indicator": "HB<12<36_1",
       "dataElement": "OgRy8ENr4mj",
       "comboOption": "S3kJldmKMnI"
@@ -304,6 +349,21 @@
       "indicator": "HB>12<36<1",
       "dataElement": "OgRy8ENr4mj",
       "comboOption": "DceBFBWodTd"
+    },
+    {
+      "indicator": "TAn<15>36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "acwFxXvOvft"
+    },
+    {
+      "indicator": "TAn15+>36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "SEidY8isASo"
+    },
+    {
+      "indicator": "TAn20+>36",
+      "dataElement": "YbYuuh04D4m",
+      "comboOption": "XDkSj7xjk9A"
     },
     {
       "indicator": "HB<12>36_1",
@@ -608,12 +668,12 @@
     {
       "indicator": "Iron_F_15-",
       "dataElement": "kqRYtVvwdRm",
-      "comboOption": "Kh0q6tQVZWo"
+      "comboOption": "pj1M5QcfShx"
     },
     {
       "indicator": "Iron_F_20p",
       "dataElement": "kqRYtVvwdRm",
-      "comboOption": "Kh0q6tQVZWo"
+      "comboOption": "kkmA3b0j7BP"
     },
     {
       "indicator": "Iron_F<15y",
