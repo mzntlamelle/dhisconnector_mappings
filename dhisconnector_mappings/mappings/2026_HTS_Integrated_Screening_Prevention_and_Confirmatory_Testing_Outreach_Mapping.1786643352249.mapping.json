@@ -1,0 +1,60 @@
+{
+    "name": "2026_HTS_Integrated_Screening_Prevention_and_Confirmatory_Testing_Outreach_Mapping",
+    "periodType": "Monthly",
+    "created": 1786643352249,
+    "dataSetUID": "ds4TGKprxHe",
+    "attributeOptionCombo": "xaVjf37uiqA",
+    "periodIndicatorReportGUID": "8452f710-8864-4a22-9b8c-7f91fc47f0ed",
+    "elements": [
+        {
+            "indicator": "tbScrMOut",
+            "dataElement": "pTy7poyPk3f",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "tbScrFOut",
+            "dataElement": "pTy7poyPk3f",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "OutMCdDis",
+            "dataElement": "ORai3A7AaFp",
+            "comboOption": "nREz1vKJ4QX"
+        },
+        {
+            "indicator": "OutFCdDis",
+            "dataElement": "ORai3A7AaFp",
+            "comboOption": "RjNcOxtS3KG"
+        },
+        {
+            "indicator": "OutMLubs",
+            "dataElement": "UXTapkXcp8w",
+            "comboOption": "PSBywGSod9Z"
+        },
+        {
+            "indicator": "OutFLubs",
+            "dataElement": "UXTapkXcp8w",
+            "comboOption": "yR3ubhA3Ybp"
+        },
+        {
+            "indicator": "conPosOut",
+            "dataElement": "vk8xW93Cm4K",
+            "comboOption": "IPrN94OW1SD"
+        },
+        {
+            "indicator": "conNegOut",
+            "dataElement": "vk8xW93Cm4K",
+            "comboOption": "ndi0J5GKwId"
+        },
+         {
+            "indicator": "IndetOut",
+            "dataElement": "vk8xW93Cm4K",
+            "comboOption": "IPrN94OW1SD"
+        },
+        {
+            "indicator": "OutSeroD",
+            "dataElement": "vk8xW93Cm4K",
+            "comboOption": "ndi0J5GKwId"
+        }
+    ]
+}
